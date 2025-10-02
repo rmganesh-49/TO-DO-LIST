@@ -18,7 +18,7 @@ Tasks can be added, marked as completed, deleted, and are saved in **localStorag
 ## ⚙️ Installation & Usage
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/rmganesh-49/TO-DO-LIST.git
 2. Open the project folder.
 3. Open index.html in your browser. That’s it! 🎉
    
