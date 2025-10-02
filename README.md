@@ -24,12 +24,12 @@ Tasks can be added, marked as completed, deleted, and are saved in **localStorag
    
 ---  
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
--🧹 "Clear All Tasks" button
+- 🧹 "Clear All Tasks" button
 
--✏️ Edit tasks in place
+- ✏️ Edit tasks in place
 
--📱 Mobile-first layout with improved responsiveness
+- 📱 Mobile-first layout with improved responsiveness
 
--🌙 Dark mode toggle
+- 🌙 Dark mode toggle
