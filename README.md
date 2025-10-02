@@ -15,28 +15,21 @@ Tasks can be added, marked as completed, deleted, and are saved in **localStorag
 
 ---
 
-## 📂 Project Structure
-.
-├── index.html # Main HTML file
-├── style.css # Styling (layout, colors, hover effects)
-└── script.js # Functionality (add, remove, toggle, localStorage)
-
----
-
 ## ⚙️ Installation & Usage
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/your-username/todo-list.git
 2. Open the project folder.
 3. Open index.html in your browser. That’s it! 🎉
-
    
-📌 Future Improvements
+---  
 
-🧹 "Clear All Tasks" button
+##📌 Future Improvements
 
-✏️ Edit tasks in place
+-🧹 "Clear All Tasks" button
 
-📱 Mobile-first layout with improved responsiveness
+-✏️ Edit tasks in place
 
-🌙 Dark mode toggle
+-📱 Mobile-first layout with improved responsiveness
+
+-🌙 Dark mode toggle
